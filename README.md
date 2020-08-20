@@ -2,13 +2,13 @@
  Le bot qui vous tient au courant des matchs de vos équipes CS préférées!
  L'un de mes premiers projets en programmation.
  
- Pour le voir à l'oeuvre : @CSUpdatesFR sur Twitter
+ Pour le voir à l'oeuvre : @CSUpdatesFR sur Twitter <br>
  
- #Comment il a été fait?
- Language : Python
- Methode : Webscrapping sur le site hltv.org
- APIs : Tweepy, BeautifulSoup 4
- Temps de conception : ~2 jours
+ Comment il a été fait? <br>
+ Language : Python <br>
+ Methode : Webscrapping sur le site hltv.org <br>
+ APIs : Tweepy, BeautifulSoup 4 <br>
+ Temps de conception : ~2 jours <br>
  
  
  Screenshot : 
