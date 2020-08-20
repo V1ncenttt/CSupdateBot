@@ -7,10 +7,10 @@ from datetime import *
 import lxml
 
 # Autentification Twitter
-CONSUMER_KEY = 'aAD2qgATFkbIp6yrljsrKNXOK'
-CONSUMER_SECRET = 'B6yflOAlzovH5oGgdZrVXxZNnkbjYnUx24vJ45JFRSNMaUfXlA'
-ACCESS_KEY = '1295835678169858050-g5V5B8RAr0cPJx02DaRHkNxff5GXMD'
-ACCESS_SECRET = 'D8VmBHZ86XL0P7PEIoHsJgVjZDT0O8UQcC0BufhJqCpkd'
+CONSUMER_KEY = '*****************'
+CONSUMER_SECRET = '**************************************************'
+ACCESS_KEY = '********************************************************'
+ACCESS_SECRET = '**********************************'
 def Oauth() :
     try:
         auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
